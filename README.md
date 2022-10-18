@@ -16,7 +16,7 @@ Project uses `MSTest` V2 framework. There are other popular frameworks such as `
  
  ## Best Practices
 
- - Each Test Method should only have one assert, not multiple.
+ - Each Test Method should only have one Assert test, not multiple.
  - Don't be afraid to be verbose with Method names.  In fact, it's standard to be verbose and indicate exactly what it does. Ex: `GroupSalesOrderContainsGroupName()`.  The test names within this demo app are not prime examples of how to name your tests.
  - Remember "AAA" - Arrange, Act, & Assert
      - **Arrange** - Initialize variables. Create the variables and types we need
