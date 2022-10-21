@@ -1,6 +1,4 @@
-﻿using UnitTestDemo.Test.TestData;
-
-namespace UnitTestDemo.Test.Extensions
+﻿namespace UnitTestDemo.Test.Extensions
 {
     /// <summary>Extension Methods.  Write your own custom Assert methods!</summary>
     public static class CustomAsserts
